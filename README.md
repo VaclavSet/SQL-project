@@ -1,3 +1,5 @@
+DISCORD nick Václav S.
+
 # SQL-project
 ## **1. ZADÁNÍ PROJEKTU**
 
